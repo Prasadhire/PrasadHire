@@ -35,7 +35,7 @@
 
 ### 📫 Connect With Me
 
-* LinkedIn: [Linkedin](www.linkedin.com/in/prasad-hire-4a818b337)
+* LinkedIn: [LinkedIn Profile](https://linkedin.com/in/prasad-hire-4a818b337)
 * Email: [hireprasad002@gmail.com](mailto:hireprasad002@gmail.com)
 
 ⭐ Building, Automating & Scaling Cloud-Native Platforms
